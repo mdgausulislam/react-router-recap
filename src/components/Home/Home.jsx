@@ -26,6 +26,10 @@ const Home = () => {
         const totalTime = readingTime + time;
         setReadingTime(totalTime)
     }
+    const handleRemoveBookmark=()=>{
+        setBookmark([]);
+        setReadingTime(0);
+    }
 
 
     // useEffect(()=>{
@@ -52,6 +56,7 @@ const Home = () => {
                 <Bookmark
                     bookmark={bookmark}
                     readingTime={readingTime}
+                    handleRemoveBookmark={handleRemoveBookmark}
                 ></Bookmark>
 
             </div>
