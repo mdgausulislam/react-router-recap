@@ -1,0 +1,80 @@
+.blog-container {
+    margin: 50px;
+}
+
+
+.image-cover {
+    width: 845px;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.image-profile {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    margin-right: 20px;
+}
+
+.profile-info {
+    margin-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile-details {
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.date {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.details-read {
+    display: flex;
+    align-items: center;
+}
+
+.bookmark-read {
+    margin-right: 5px;
+}
+
+span {
+    margin-right: 5px;
+}
+
+.bookmark-read {
+    color: rgba(17, 17, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.bookmark-icon {
+    width: 24px;
+    height: 24px;
+    color: purple;
+}
+
+.mark-as-read {
+    background-color: white;
+    border: none;
+    color: #6047EC;
+    font-family: 'Exo 2';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+.btn-bookmark{
+    background-color: white;
+    border: none;
+}
