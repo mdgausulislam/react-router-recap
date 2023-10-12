@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Blog from '../Blog/Blog';
 import './Home.css'
 import Bookmark from '../Bookmark/Bookmark';
+import toast from 'react-hot-toast';
 
 const Home = () => {
     const [blogs, setBlogs] = useState([]);
@@ -19,8 +20,15 @@ const Home = () => {
     }, [])
 
     const handleAddToBookmark = (blog) => {
-        const newBlog = [...bookmark, blog];
-        setBookmark(newBlog);
+
+        const exits=bookmark.find(bl=>bl.id===blog.id);
+        if(exits){
+
+            toast('you have already added this blog');
+        }else{
+            const newBlog = [...bookmark, blog];
+            setBookmark(newBlog);
+        }
     }
     const handleAddToRead = (id, time) => {
         const totalTime = readingTime + time;
