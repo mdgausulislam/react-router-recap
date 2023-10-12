@@ -1,5 +1,6 @@
 import React from 'react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+
+import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 
 const DashBoard = () => {
@@ -51,18 +52,19 @@ const DashBoard = () => {
 
     return (
         <div>
-            <LineChart
-                width={1000}
-                height={300}
-                data={dataArray}
-            >
+           
+
+            <BarChart
+            width={1000}
+            height={500}
+            data={dataArray}>
                 <XAxis dataKey='name'></XAxis>
                 <YAxis></YAxis>
-                <Tooltip />
-                <Line dataKey="uv"></Line>
-                <Line dataKey="pv"></Line>
-                <Line dataKey="amt"></Line>
-            </LineChart>
+                <Tooltip></Tooltip>
+                <Bar dataKey="uv"></Bar>
+                <Bar dataKey="pv"></Bar>
+                <Bar dataKey="amt"></Bar>
+            </BarChart>
 
         </div>
     );
