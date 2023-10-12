@@ -1,0 +1,17 @@
+nav{
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.3);
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.3));
+}
+.menubar{
+    display: flex;
+    align-items: center;
+}
+.menubar a{
+    margin-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}

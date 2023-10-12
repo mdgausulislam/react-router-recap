@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Raju",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 1",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 5,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mr. Rana",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 2",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 10,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "2.png"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Rani",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 3",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 15,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "3.png"
+    },
+    {
+        "id": 4,
+        "name": "Mr. Bani",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 4",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 20,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mr. Honey",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 5",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 25,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mr. Tuni",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 6",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 30,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mr. Duni",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 7",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 35,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mr. Moni",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 9",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 40,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mr. Pani",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 9",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 45,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mr. Borsha",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "Html and css 10",
+        "coder": [
+            "#beginners",
+            "#programming"
+        ],
+        "reading": 50,
+        "profile": "boy1.png",
+        "icon": "Frame.png",
+        "img": "10.jpg"
+    }
+]

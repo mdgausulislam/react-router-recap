@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Raju",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "5 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mr. Rana",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "10 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "2.png"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Rani",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "15 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "3.png"
+    },
+    {
+        "id": 4,
+        "name": "Mr. Bani",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "15 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mr. Honey",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "25 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mr. Tuni",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "25 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mr. Duni",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "40 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mr. Moni",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "35 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mr. Pani",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "45 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mr. Borsha",
+        "date": "Mar 14 (4 Days ago)",
+        "text": "How to get your first job as a self-taught programmer",
+        "coder": "#beginners",
+        "coder1": "#programming",
+        "reading": "50 min read",
+        "profile":"boy1.png",
+        "icon":"Frame.png",
+        "img": "10.jpg"
+    }
+]
